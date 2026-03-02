@@ -1,0 +1,47 @@
+/* CMU Serif */
+/* body {
+    font-family: "CMU Serif", serif !important;
+} */
+
+
+/* Lora*/
+/* body {
+    font-family: "Lora Light", serif;
+} */
+
+
+/* Bahnschrift */
+/* body {
+    font-family: "Bahnschrift", sans-serif;
+} */
+
+
+/*Roboto Slab*/
+/* body {
+    font-family: "Roboto Slab Light";
+} */
+
+
+/*Roboto Mono*/
+body {
+    font-family: "Roboto Mono Regular";
+}
+
+
+/* CMU Typewriter Text Variable Width */
+/* body {
+    font-family: "CMU Typewriter";
+} */
+
+
+/* Consolas */
+/* body {
+    font-family: "Consolas";
+} */
+
+
+
+/* Increase the default font size */
+html {
+    font-size: 14pt;
+}
