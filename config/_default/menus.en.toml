@@ -12,23 +12,89 @@
 
 
 [[main]]
-  name = "TIL"  
+  name = "TRAIN"  
+  pageRef = "TRAIN"
+  weight = 10
+[[main]]
+  parent = "TRAIN"
+  name = "Exercise"
+  pageRef = "Exercise"
+[[main]]
+  parent = "TRAIN"
+  name = "Focus"
+  pageRef = "Focus"
+[[main]]
+  parent = "TRAIN"
+  name = "Gratitude"
+  pageRef = "Gratitude"
+[[main]]
+  parent = "TRAIN"
+  name = "Hydrate"
+  pageRef = "Hydrate"
+[[main]]
+  parent = "TRAIN"
+  name = "Mediate"
+  pageRef = "Meditate"
+[[main]]
+  parent = "TRAIN"
+  name = "Sleep"
+  pageRef = "Sleep"
+    
 
 [[main]]
-  name = "Parent"
+  name = "LEARN"  
+  pageRef = "LEARN"
   weight = 20
+[[main]]
+  parent = "LEARN"
+  name = "Physics"
+  pageRef = "Physics"
+[[main]]
+  parent = "LEARN"
+  name = "Maths"
+  pageRef = "Maths"
+[[main]]
+  parent = "LEARN"
+  name = "Mathematica"
+  pageRef = "Mathematica"
+[[main]]
+  parent = "LEARN"
+  name = "German"
+  pageRef = "German"
+[[main]]
+  parent = "LEARN"
+  name = "Programming"
+  pageRef = "Programming"
+[[main]]
+  parent = "LEARN"
+  name = "Thesis"
+  pageRef = "Thesis"
+[[main]]
+  parent = "LEARN"
+  name = "CAD"
+  pageRef = "CAD"
+
 
 [[main]]
-  name = "example sub-menu 1"
-  parent = "Parent"
-  pageRef = "posts"
-  weight = 20
+  name = "REFLECT"  
+  pageRef = "REFLECT"
+  weight = 30
+
 
 [[main]]
-  name = "example sub-menu 2"
-  parent = "Parent"
-  pageRef = "posts"
-  weight = 20
+  name = "ACHIEVE"
+  pageRef = "ACHIEVE"
+  weight = 40
+
+
+
+
+
+[[subnavigation]]
+  name = "Quotes"
+  pageRef = "quotes.md"
+
+
 
 # [[subnavigation]]
 #   name = "An interesting topic"
@@ -41,15 +107,15 @@
 #   pageRef = "categories/awesome"
 #   weight = 20
 
-[[main]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 20
+# [[main]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20
 
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
+# [[main]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 30
 
 
 # -- Footer Menu --
@@ -57,12 +123,12 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+[[footer]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 20

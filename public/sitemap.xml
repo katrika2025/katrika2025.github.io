@@ -9,19 +9,28 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/learning-progress/</loc>
+    <loc>http://localhost:1313/quotes/</loc>
     <lastmod>2026-03-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/learning-progress/maths/</loc>
-    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/achieve/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/learn/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/reflect/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/train/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

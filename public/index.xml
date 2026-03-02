@@ -9,24 +9,24 @@
     <managingEditor>katrika2025@gmail.com (KatRika)</managingEditor>
     <webMaster>katrika2025@gmail.com (KatRika)</webMaster>
     <copyright>© 2026 KatRika</copyright>
-    <lastBuildDate>Mon, 02 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>MY FIRST POST</title>
-      <link>http://localhost:1313/learning-progress/maths/</link>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>http://localhost:1313/achieve/sd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>katrika2025@gmail.com (KatRika)</author>
-      <guid>http://localhost:1313/learning-progress/maths/</guid>
+      <guid>http://localhost:1313/achieve/sd/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/about/</link>
+      <title>Quote of the day</title>
+      <link>http://localhost:1313/quotes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>katrika2025@gmail.com (KatRika)</author>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/quotes/</guid>
       <description></description>
       
     </item>

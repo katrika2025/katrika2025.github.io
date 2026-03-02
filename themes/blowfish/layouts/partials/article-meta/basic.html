@@ -27,7 +27,11 @@
   {{ end }}
 
   {{ if $shouldShowDate }}
-    {{ $meta.Add "partials" (slice (partial "meta/date.html" .Date)) }}
+    {{ if .Params.dynamicDate }}
+      {{ $meta.Add "partials" (slice (partial "meta/date.html" now)) }}
+    {{ else }}
+      {{ $meta.Add "partials" (slice (partial "meta/date.html" .Date)) }}
+    {{ end }}
   {{ end }}
 
   {{ if and (.Params.showDateUpdated | default (.Site.Params.article.showDateUpdated | default false)) (ne (partial

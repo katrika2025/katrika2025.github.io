@@ -9,17 +9,7 @@
     <managingEditor>katrika2025@gmail.com (KatRika)</managingEditor>
     <webMaster>katrika2025@gmail.com (KatRika)</webMaster>
     <copyright>© 2026 KatRika</copyright>
-    <lastBuildDate>Mon, 02 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Cat</title>
-      <link>http://localhost:1313/categories/cat/</link>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <author>katrika2025@gmail.com (KatRika)</author>
-      <guid>http://localhost:1313/categories/cat/</guid>
-      <description></description>
-      
-    </item>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
