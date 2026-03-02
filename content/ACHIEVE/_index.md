@@ -2,5 +2,5 @@
 {{< typeit 
   tag=h2
   lifeLike=true
->}}Connecting byproducts...
+>}} Some wins along the way...
 {{< /typeit >}}
