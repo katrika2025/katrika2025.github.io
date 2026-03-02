@@ -4,18 +4,16 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/quotes/</loc>
-    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/achieve/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/achieve/sd/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -31,6 +29,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/train/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/quotes/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

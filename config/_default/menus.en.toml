@@ -88,10 +88,8 @@
 
 
 
-
-
 [[subnavigation]]
-  name = "Quotes"
+  name = "Quote of the day"
   pageRef = "quotes.md"
 
 
